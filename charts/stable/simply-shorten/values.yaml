@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: registry.gitlab.com/draganczukp/simply-shorten
-  tag: 1-3@sha256:f5b9f105016d0c4c42d7109d2363459fc12d9379be8cfa9df20ffd66c6a18d08
+  tag: 1-3@sha256:708680e2549f1e0dee554e7d041daa07f9b196829831ff1c268d607cc5e54afd
 service:
   main:
     ports:
